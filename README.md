@@ -7,7 +7,8 @@
 проверели содержимое созданных файлов
 <img width="886" height="690" alt="image" src="https://github.com/user-attachments/assets/ed91050f-7eca-4664-b7fd-9dc0cbeef82d" />
 создали образ
-<img width="897" height="443" alt="image" src="https://github.com/user-attachments/assets/290fed36-fd3e-4b5c-acde-767f47a87072" />
+<img width="892" height="439" alt="image" src="https://github.com/user-attachments/assets/7e9f1bf5-1caa-4dc4-a049-c1a41a8e1dc6" />
+
 запустили контейнер
 <img width="477" height="60" alt="image" src="https://github.com/user-attachments/assets/7c9ab9ef-d607-4b1b-8138-acf9b66417d9" />
 сохранили в файл и посмотрели содержимое
